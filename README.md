@@ -53,7 +53,7 @@ I'm always open to collaborate on interesting projects and connect with fellow d
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rastir&theme=tokyonight&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&ring=34CCEB&fire=07EB1F)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rastir&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rastir&show_icons=true&theme=tokyonight&hide_border=true)
 
